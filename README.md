@@ -62,9 +62,4 @@ A real-time monitoring interface showing the live conveyor feed, per-item detect
 
 This system flags *possible* microbial contamination as a rapid pre-screening filter — it does not identify exact bacterial species. Species-level confirmation still requires lab methods (culturing/PCR).
 
-## 👥 Team
-
-*Add team member names here*
-
----
 Built for Smart India Hackathon (SIH).
